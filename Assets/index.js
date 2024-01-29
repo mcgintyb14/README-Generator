@@ -33,6 +33,16 @@ const questions = [
         message: 'What are the instructions to use the project?'
     },
     { 
+        type: 'input',
+        name: 'installation',
+        message: 'What are the installation instructions (if any) to use the project?'
+    },
+    { 
+        type: 'input',
+        name: 'credits',
+        message: 'Who are the contributors to the project?'
+    },
+    { 
         type: 'list',
         name: 'license',
         message: 'What license (if any) does your project use?',
@@ -47,10 +57,10 @@ function writeToFile(fileName, data) {
 
 // TODO: Create a function to initialize app
 function init() { 
-    inquirer.prompt(questions).then((inquirerResponses)) => {
+    inquirer.prompt(questions).then((inquirerResponses) => {
         console.log('Generating a new README File');
         writeToFile('README.md', generateMarkdown({...inquirerResponses}))
-    }
+    });
 }
 
 // Function call to initialize app
