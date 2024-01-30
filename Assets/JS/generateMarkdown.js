@@ -36,7 +36,7 @@ ${data.description}
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#credits)
+- [Contributing](#contributing)
 - [License](#license)
 
 ## Installation
