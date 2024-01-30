@@ -25,7 +25,7 @@ Once the project is on your local machine and opened in VS code, open the inegra
 ## Walkthrough
 Below is a video walkthrough where I demonstrate how to run the program and generate a README file.
 
-[Video Walkthrough](https://drive.google.com/file/d/1tub8fs9g7wrwo-wwYGBKHjufk0IMEw9K/view?usp=sharing)
+Link: https://drive.google.com/file/d/1tub8fs9g7wrwo-wwYGBKHjufk0IMEw9K/view?usp=sharing
 
 PLEASE NOTE: The screen recording did not show the other screen where the link to the License badge opened but each license badge will take you to the relevant site.
 
