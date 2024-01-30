@@ -40,17 +40,11 @@ function generateMarkdown(data) {
 
 ${data.description}
 
-## License
-
-${data.license} /n
-
-${licenseBadge}
-
-### Table of Contents
-# Installation
-# Usage
-# Credits
-# License
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#credits)
+- [License](#license)
 
 ## Installation
 To install the project, please use the following commands:
@@ -62,13 +56,24 @@ ${data.installation}
 
 ${data.instructions}
 
-## Credits
+## License
+
+${data.license}
+
+${licenseBadge}
+
+## Contributing
 
 ${data.credits}
 
-## Contact
+## Tests
+${data.tests}
 
-${data.email}
+## Questions
+
+Email: ${data.email} \n
+Github Profile: https://www.github.com/${data.username}
+
 `;
 }
 
