@@ -1,7 +1,9 @@
 # README Generator
 
 ## Description
-This project is a README generator 
+This project is a README generator which allows user to answer a prompt of questions about their project, and have a professional README file generated automatically.  This project can be utilized to save unnecessary time for developers, so they can spend more time focusing on code. The structure of the README file will include sections for description, usage, installation, contributing, license, tests, and questions. 
+
+Based on the answers to the prompt, the README file will also generate links for your email and Github profile within the 'Questions' section. 
 
 ## Table of Contents
 - [Installation](#installation)
