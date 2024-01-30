@@ -1,43 +1,38 @@
-# Weather Generator
+# README Generator
 
 ## Description
+This project is a README generator which allows user to answer a prompt of questions about their project, and have a professional README file generated automatically.  This project can be utilized to save unnecessary time for developers, so they can spend more time focusing on code. The structure of the README file will include sections for description, usage, installation, contributing, license, tests, and questions. 
 
-This website gives you weather for any city that is searched within the search input
+Based on the answers to the prompt, the README file will also generate links for your email and Github profile within the 'Questions' section. 
 
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
+- [Walkthrough](#walkthrough)
+- [Contributing](#credits)
 - [License](#license)
-- [Contributing](#contributing)
-- [Tests](#tests)
-- [Questions](#questions)
 
 ## Installation
-To install the project, please use the following commands:
-'''
-No installation instructions needed
-'''
+To install this project, clone ths Github repository to your local machine by clicking on the Green 'code' button on this page to either copy the SSH ot HTTPS link. Once the link has been copied, enter `git clone` followed by the SSH or HTTPs link from Github. Once the repository has been cloned, cd to the appropriate folder containing the git repository and enter `code .` to open the files with VS code. 
 
 ## Usage
 
-Enter your desired city in the search input and hit enter.
+Once the project is on your local machine and opened in VS code, open the inegrated terminal from the index.js file and use the following commands to initiate the application:
+1. `npm install` to ensure that all node modules are downloaded
+2. `node index.js`
+3. Answer the prompted quesitons in the terminal to generate a new README file
+
+## Walkthrough
+Below is a video walkthrough where I demonstrate how to run the program and generate a README file.
+
+[Walkthrough Video:](https://drive.google.com/file/d/1tub8fs9g7wrwo-wwYGBKHjufk0IMEw9K/view?usp=sharing)
+
+PLEASE NOTE: The screen recording did not show the other screen where the link to the License badge opened but each license badge will take you to the relevant site.
+
+## Contributing
+N/A
 
 ## License
-
 MIT
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-## Contributing
-
-Brendan
-
-## Tests
-No tests needed
-
-## Questions
-
-Email: brendan.mcginty14@gmail.com 
-
-Github Profile: https://www.github.com/mcgintyb14
-
