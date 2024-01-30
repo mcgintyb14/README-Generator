@@ -2,23 +2,25 @@
 
 ## Description
 
-Cool project to help you generate unique gifs of cats!
+A cool site that generates random gifs of cats!
 
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#credits)
 - [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
 ## Installation
 To install the project, please use the following commands:
 '''
-No installation instructions needed
+Follow the links in the Github repository
 '''
 
 ## Usage
 
-Simply follow the link of the page
+Please follow the usage instructions on the page
 
 ## License
 
@@ -28,7 +30,7 @@ APACHE
 
 ## Contributing
 
-N/A
+Brendan
 
 ## Tests
 N/A
